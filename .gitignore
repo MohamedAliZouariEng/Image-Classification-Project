@@ -1,0 +1,19 @@
+# Environment
+venv/
+.env
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights (download from GitHub Releases)
+*.h5
+*.keras
+
+# Large local test data
+test_image.jpg
+
+# OS / editor
+.DS_Store
+.vscode/
